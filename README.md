@@ -2,6 +2,10 @@
 
 Selamat datang di **Checker Berita Terkini**, aplikasi web yang membantu kamu memverifikasi kebenaran berita dengan cepat dan mudah. Desainnya modern dan menggunakan teknologi terbaru, sehingga memudahkan kamu untuk tetap up-to-date dengan berita terbaru!
 
+## Preview Proyek 🌐
+
+Sebelum kamu mulai, kamu bisa melihat preview dari proyek ini di [Checker Berita Terkini](https://beginneernoob.github.io/Checker-Berita-Terkini/).
+
 ## Latar Belakang 📜
 
 Proyek ini dibuat dengan tujuan untuk menangani masalah informasi yang salah atau hoaks yang sering beredar di Indonesia. Banyak warga Indonesia cenderung lebih mudah percaya pada berita, baik itu benar maupun salah. Untuk mengatasi masalah ini dan mengurangi dampak berita hoaks, kami mengembangkan website ini dengan integrasi **AI**.
